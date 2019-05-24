@@ -1,1 +1,23 @@
-
+body{
+    color: black;
+    background-color: black;
+    text-align: center;
+    background-image: url(hermes-rivera-265412-unsplash.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 175%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    background-color:whitesmoke;
+    outline-style: ridge;
+    width: 40%;
+    margin: auto;
+}
+p{
+    width: 40%;
+    margin: auto;
+    font-style: italic;
+    font-size: 100%; 
+}
